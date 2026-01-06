@@ -12,5 +12,5 @@ Model a photovoltaic module and analyse its electrical behaviour.
 
 ## Results
 - I–V and P–V curves generated
-- Voc, Isc, and MPP identified
-- Vmpp, Impp, and Pmax extracted numerically
+- V_oc, I_sc, and MPP identified
+- V_mpp, I_mpp, and P_max calculated numerically
