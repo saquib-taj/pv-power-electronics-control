@@ -5,6 +5,7 @@ This repository documents my projects in renewable energy and power electronics,
 
 ## Phase 1: PV + DC–DC Converters
 - PV module modeling
+- [PV Module Modeling](01_PV_Modeling/)
 - MPPT (Perturb & Observe)
 - Buck converter (open-loop)
 
