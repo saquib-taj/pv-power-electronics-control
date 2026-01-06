@@ -1,14 +1,16 @@
 # PV Module Modeling
 
 ## Objective
-Model I–V and P–V characteristics of a PV module.
+Model a photovoltaic module and analyse its electrical behaviour.
 
 ## Model
-- Single-diode model
-- Temperature & irradiance variation
+- Load resistance was swept to obtain I–V and P–V characteristics.
+- Temperature & irradiance variation studied
 
 ## Implementation
-- MATLAB / Simulink
+- MATLAB, Simulink, Simscape Electrical
 
 ## Results
-- I–V and P–V curves obtained
+- I–V and P–V curves generated
+- Voc, Isc, and MPP identified
+- Vmpp, Impp, and Pmax extracted numerically
