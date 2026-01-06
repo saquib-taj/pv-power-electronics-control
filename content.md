@@ -4,8 +4,7 @@
 This repository documents my projects in renewable energy and power electronics, specifically the modeling and control of photovoltaic systems.
 
 ## Phase 1: PV + DC–DC Converters
-- PV module modeling
-- [PV Module Modeling](01_PV_Modeling/)
+- - [PV Module Modeling](index.html?file=01_PV_Modeling/index.md)
 - MPPT (Perturb & Observe)
 - Buck converter (open-loop)
 
