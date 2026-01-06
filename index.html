@@ -14,7 +14,10 @@
 <div id="content"></div>
 
 <script>
-  fetch("content.md")
+  const params = new URLSearchParams(window.location.search);
+  const file = params.get("file") || "content.md";
+
+fetch(file)
     .then(r => r.text())
     .then(t => {
       document.getElementById("content").innerHTML = marked.parse(t);
