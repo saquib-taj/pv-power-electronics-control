@@ -1,1 +1,1 @@
-Simulation of Wind energy Model 
+Simulation of Wind Energy Model 
