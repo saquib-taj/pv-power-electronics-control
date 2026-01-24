@@ -1,7 +1,7 @@
 Different Energy Vector Integration (IIT Roorkee)
 
-- Solar Energy
-- Wind Energy
+- Solar Energy (PV) Model
+- Wind Energy Model
 - Concept of MPPT
-- Energy Storage System
+- Energy Storage System 
 - Simulation
